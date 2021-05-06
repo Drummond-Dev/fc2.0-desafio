@@ -1,7 +1,7 @@
-CREATE DATABASE desafio;
+CREATE DATABASE pfa;
 
-USE desafio;
+USE pfa;
 
-CREATE TABLE desafio.peoples (id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255) NOT NULL) ENGINE=InnoDB;
+CREATE TABLE pfa.peoples (id INT NOT NULL AUTO_INCREMENT PRIMARY KEY, name VARCHAR(255) NOT NULL) ENGINE=InnoDB;
 
-INSERT INTO desafio.peoples (name) VALUES ("Daniel Drummond");
+INSERT INTO pfa.peoples (name) VALUES ("Daniel Drummond");
