@@ -28,8 +28,8 @@ Busquei informações no pfa e o nosso amigo Google para utilizar o Dockerize pa
 
 Para rodar a aplicação basta executar o comando abaixo:
 
-docker-compose up (para ter o log no terminal)
+docker-compose up --build (para ter o log no terminal)
 
-docker-compose up -d (para liberar o terminal)
+docker-compose up -d --build (para liberar o terminal)
 
 Obrigado e vamos nessa
