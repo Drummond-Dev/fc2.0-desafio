@@ -32,4 +32,6 @@ docker-compose up --build (para ter o log no terminal)
 
 docker-compose up -d --build (para liberar o terminal)
 
+No browser: [http://localhost:8080](http://localhost:8080)
+
 Obrigado e vamos nessa
