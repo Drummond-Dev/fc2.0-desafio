@@ -2,7 +2,7 @@
 
 ## Desafio II
 
-Neste desafio a proposta era criar um container com Nginx (proxy reverso) para acessar uma plaicação em Node Js, que por sua vez, 
+Neste desafio a proposta era criar um container com Nginx (proxy reverso) para acessar uma aplicação em Node Js, que por sua vez, 
 teria que acessar um outro container onde estaria rodando MySQL.
 
 Quando acessar a aplicação Node Js, a mesma deveria criar um novo registro na table People no MySQL e depois apresentar uma mensagem para o usuário.
