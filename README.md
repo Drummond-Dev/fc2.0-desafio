@@ -15,12 +15,12 @@ E depois do registro ser criado ele é apresentado como resultado na página do 
 
 ** Hello *nome*!! Full Cycle Rocks!! **
 
-Foi um ótimo desafio e consegui contornar todos os problemas que tive. O problema que mais quebrei a cabeço, foi em função do meu setup, onde rodo o Docker em um servidor Ubuntu,
+Foi um ótimo desafio e consegui contornar todos os problemas que tive. O problema que mais quebrei a cabeça, foi em função do meu setup, onde rodo o Docker em um servidor Ubuntu,
 e não me toquei que teria que liberar a porta 3000 no firewall para o Node Js, uma vez que seria uma comunição interna entre container. Mas liberei a porta e tudo rodou limpo.
 
 Busquei informações no pfa e o nosso amigo Google para utilizar o Dockerize para entender melhor o funcionamento dos container e a comunicação entre eles. Foi muito legal, adorei.
 
-*Obs.: Mas lendo novamente o desafio, percebi que querem uma lista com todos os nomes que estão registrados no banco de dados. Irem fazer uma nova versão para cumprir as metas do desafio.*
+*Obs.: Mas lendo novamente o desafio, percebi que querem uma lista com todos os nomes que estão registrados no banco de dados. Vou fazer uma nova versão para cumprir as metas do desafio.*
 
 *Obs.: Criei outputs de todos os processos do Node Js no terminal.*
 
